@@ -1,6 +1,6 @@
-# Work in progess
+# Work in progess. Future of drawing
 
-##Future of drawing
+
 
 November the 1st 2023.
 
