@@ -2,9 +2,8 @@
 
 November the 1st 2023
 
-<b>1. Describe your daily routine in main steps.
-(ex. wake up, bus, work.....)</b>
-
+<u>1. Describe your daily routine in main steps.
+(ex. wake up, bus, work.....)</u>
 Snooze ten times, wake up , shower, coffee , commute, get shit done, tired, commute, bonus: see friends, play video games/do sports, sleep, restart
 
 Wake up → eggs → bike → work → eat → work → bike → go out → bike → sleep →
