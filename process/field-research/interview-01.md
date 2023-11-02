@@ -16,7 +16,9 @@ Wake up, prepare myself (dress up, makeup and make the bag for school), walk to 
 
 I wake up, shower, eat a little breakfast, dress myself and go take the tram to the HEAD
 
-## 2. At what moments you feel the most at in peace? While doing what? (ex. when I'm watching trains...).
+Wake up, hair, train, make up, school, coffee, eat, school, train, work in train, eat, Tv, outfit prep, sleep
+
+## 2. At what moments you feel the most at in peace? While doing what? (ex. when I'm watching trains...)
 
 Coffee in the morning before starting the day, and getting back home
 
@@ -29,6 +31,8 @@ In the train because I take a train that is not filled with people, and everyone
 In general when I'm in nature, it could be a walking in a park or simply looking at the sky (I love the different shadows of the meteo). But in daily routine it's more in the train, because with my headphones I can chill for the long trajet to Geneva.
 
 When I find a seated place in the tram and I listen to my music
+
+On the train watching a video or doing my make up or working, prepping my outfit for the next day at home, or watching Tv
 
 ## 3. How many times a day you find yourself sitting and doing nothing or doing something useless. And then realizing that you are waisting your time. (ex. scrolling insta for 2h)
 
@@ -44,6 +48,8 @@ chilling the evening for around 2 hours on the tv, + 2 hours of daily consumptio
 
 I think like 2/3 times when I'm at school but a lot more when I'm home
 
+Depends on what u deam useless, maybe 2-4 times a day
+
 ## 4. How often are you faced to random events in daily life? (ex. bird shat on your head)
 
 Not so much, once a day is already a lot
@@ -58,6 +64,8 @@ difficult to say, maybe sometimes. I will say once a week (not only bird shits b
 
 Not really often I believe
 
+At least 1
+
 ## 5. Had it already happen that very random events made an impact on your creativity/workflow/inspiration? If yes, plzz tell me what it was and what was the impact. (ex. a fine in the train made think about dope ass project that made you win swiss design awards)
 
 Taking a shower or before going to bed
@@ -67,3 +75,5 @@ A scooter accident, a downpour, a glass spilling on my computer. Just thinking a
 Sometimes I see random shit on fyp of instagram /tik Tok that make me think about my master thesis, (like graphic choices). Sorry I don't have specific exemples.
 
 It happens that a random song pops in my playlist and inspire me visuals or things
+
+I can't think of an exemple right now but I feel like that's basically the way my brain works all the time
