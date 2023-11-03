@@ -10,7 +10,7 @@ So there are my observations:
 
 Prototype 01 was inspired by my portable iphone case. I often use it myself for writing down my random thoughts during the day etc.
 
-![Reference Image](/process/prototyping/2023-11-02/prototype-01-01.JPG)
+![Reference Image](/process/prototyping/2023-11-02/prototype-01-01.JPG, width/2)
 ![Reference Image](/process/prototyping/2023-11-02/prototype-01-02.JPG)
 
 ## -
