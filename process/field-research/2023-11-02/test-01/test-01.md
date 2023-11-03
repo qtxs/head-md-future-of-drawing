@@ -29,4 +29,4 @@ Would be better to make it a bit more sensless.
 
 ## Insights
 
-This made me realise that ineed a made those "poems" way to "work" orientated and less art. It could be nice to add more of randomness in those quotes like FROG idk RAIN or something that way. Also, the words are not enough so I will be thinking on how I can integrate something more visual like shapes, drawings or something. 
+This made me realise that ineed a made those "poems" way too much "work" orientated and less art. It could be nice to add more of randomness in those quotes like FROG idk RAIN or something that way. Also, the words are not enough so I will be thinking on how I can integrate something more visual like shapes, drawings or something. 
