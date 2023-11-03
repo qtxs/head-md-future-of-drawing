@@ -40,4 +40,18 @@ Prototype 02 was made a bit bigger so it would be more appropriate to integrate 
 # Prototype 3
 
 Prototype 03 is my favorite one. This idea was inspired by those guys:
+
 ![Reference Image](/process/prototyping/2023-11-02/him.png)
+
+We don't really see on the picture but you all know those fine printing machines that they have next to he belt. So this made me think that it can be actually quite fun to use this as a reference in the sens that *if you are not working/drawing for too long, you get a fine*. So I made a prototype that can be attached on waistband and is easily portable. This one turned to be my fav at the end.
+
+![Reference Image](/process/prototyping/2023-11-02/prototype-03-01.JPG)
+![Reference Image](/process/prototyping/2023-11-02/prototype-03-02.JPG)
+
+## -
+    can't use body temperature senser
+
+## +
+    invisible for others
+    easily portable
+    possible to integrate sound and overall temperature
