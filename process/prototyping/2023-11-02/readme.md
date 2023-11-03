@@ -10,7 +10,7 @@ So there are my observations:
 
 Prototype 01 was inspired by my portable iphone case. I often use it myself for writing down my random thoughts during the day etc.
 
-![Reference Image](/process/prototyping/2023-11-02/prototype-01-01.JPG, width/2)
+![Reference Image](/process/prototyping/2023-11-02/prototype-01-01.JPG)
 ![Reference Image](/process/prototyping/2023-11-02/prototype-01-02.JPG)
 
 ## -
@@ -21,3 +21,23 @@ Prototype 01 was inspired by my portable iphone case. I often use it myself for 
 
 ## +
     Possible to integrate other sensors like body temeorature, hand lifting, haertbeat frequency
+
+# Prototype 2
+
+Prototype 02 was made a bit bigger so it would be more appropriate to integrate a printer inside. At this point I focused on making stuff and less thinking about it so for now I don't have much to say on this one.
+
+![Reference Image](/process/prototyping/2023-11-02/prototype-02-01.JPG)
+![Reference Image](/process/prototyping/2023-11-02/prototype-02-02.JPG)
+
+## -
+    Too visible
+    Still not comfortable enough to wear
+
+## +
+    Possible to integate body temperature censor 
+    Better than the first one (don't really know how much of a plus is that)
+
+# Prototype 3
+
+Prototype 03 is my favorite one. This idea was inspired by those guys:
+![Reference Image](/process/prototyping/2023-11-02/him.png)
