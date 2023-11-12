@@ -35,4 +35,4 @@ I was quite happy with this one as it made me realsie even more that actually, a
 ## Important Observarions.
 
 So what I have mainly realisied as that with complete liberty and 0 concrete tasks, people would feel blocked and uninspired, while when they had a clear task and it had a high control degree in terms of space, mediums, mood etc they prodcued stuff with more easyness. So here I came to the idea that during a creative process, the inspiration is always there, but it needs a bit of the context. I think this feature can be the key of my AI assitant.
-Also, almost all of the drawings and stories were influenced by the weather, previous daily/life expericnes etc so all those controllable factors can be a part of the assistant and used to customise/personilise contexts for generative inspirations. 
+Also, almost all of the drawings and stories were influenced by the weather, previous daily/life expericnes etc so all those controllable factors can be a part of the assistant and used to customise/personilise contexts for generative inspirations. So it's also kind of translation of peoples' random daily encounters into something more poetic and visual.
