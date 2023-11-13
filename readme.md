@@ -1,4 +1,9 @@
 # Work in progess. Future of drawing
+
+# 13.11.2023
+
+I like both ideas... need to find connection between both
+
 # 12.11.2023
 
 ## Pitch
