@@ -1,6 +1,5 @@
 # Work in progess. Future of drawing
-
-12.11.2023
+# 12.11.2023
 
 ## Pitch
 
@@ -10,7 +9,7 @@ WHAT
 Inspiration generator 
 
 WHO
-Young artists strggling with insporation
+Young artists strggling with inspiration
 
 WHERE
 Portable in school bag, so anywhere 
@@ -22,6 +21,10 @@ My idea is to create a portable ai assitant in a form of a pencil case with an i
 The case itself will contain various zip fasteners as key interaction. Each of fastener will correspond to different personal factor (sadness, boredom, fear...) as well as desired category (love, nature, spring...) and by zipping and unzipping it the printed output will vary (by its shape, tone of poem, length, color etc).
 By combining the tactile interaction of zip fasteners with the the integrated printer, the assitant encourages young artists to find inspiration in the simplicity of daily life, turning routine moments into unique works of art. 
 The ai assistant will be portable so its usage be everywhere and at any moment of the day, when the user feels the need to get some inspiration.
+
+User journey:
+![Reference Image](/process/prototyping/Idea01_User_Journey.png)
+
 
 Idea 2. *has similar points,possible to combine??*
 
@@ -41,7 +44,10 @@ The goal of this assistant is to serve as an annoying reminder that its time to 
 The idea is to show beginner art students that common daily routine stuff can be transformed into an art piece and there is no special time to get inspiration or motivation.
 The ai assistant will be portable so its usage be everywhere and at any moment of the day, when the user feels the need to get some inspiration/motivation.
 
+User journey:
+![Reference Image](/process/prototyping/Idea02_User_Journey.png)
 
-01.11.2023
+
+# 01.11.2023
 
 A portable AI assistant that collects your daily data (gps,moving etc...) and translates it in a graphic poem. The ai itself is attached to a wrist and contains a mini printer that prints when you are not moving for longtime. The poem or more like haiku has aim to be annoying and interropting beacuse it insists on persons immobility (lazyness). Different inputs (gps, moving, hand tracker, temperature, heartbeat...) are tranalted in different viusal outputs (graphic shapes, words, type size..) for example the gps can be used as a path where the haiku will be overlaying.
