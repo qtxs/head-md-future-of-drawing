@@ -31,6 +31,6 @@ This one is cool because it keeps the idea of a dice, and can be thrown after pl
 But let's go back to the sphere. I made some user testing without giving any context:
 
 ![Reference Video](/process/prototyping/2023-11-14/20231114_.PrototypeTesting_01.mov)
-![Reference Video](/process/prototyping/2023-11-14/20231114_.PrototypeTesting_01.1.mov.mov)
+![Reference Video](/process/prototyping/2023-11-14/20231114_.PrototypeTesting_01.1.mov)
 
 So as expected, the used found quite intertating the zip game. And the when he started throwing it, I realised that is actually a very cool feature because it can be used as a game ball for multiple => collectif work or a collectif brainstorming. By throwing the ball to each other, ai can track the paths from person to person and use it as a path for the poem layout. And while passing/throwing it to each other, each user can add, adjust the input (zip/unzip) and so the end result will be always different and RANDOM YES!
