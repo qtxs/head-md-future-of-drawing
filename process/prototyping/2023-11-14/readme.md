@@ -11,12 +11,12 @@ I was intented to make this prototype first:
 
 The point was to make a box with multiple zippeners that would serve as random inspiration generator.
 
-![Reference Image](/process/prototyping/Idea01_User_Journey.png)
+![Reference Image](/process/prototyping/2023-11-14/Idea01_User_Journey.png)
 
 I didn't do it at the end, because I got another idea (and had limited numbers of zippeners, my bad) and let my instiction guide my process and this came out:
 
 ![Reference Image](/process/prototyping/2023-11-14/20231114_.Prototype_01JPG.JPG)
-![Reference Image](/process/prototyping/2023-11-14/20231114_.Prototype_01.1JPG.JPGJPG.JPG)
+![Reference Image](/process/prototyping/2023-11-14/20231114_.Prototype_01.1JPG.JPG)
 
 And I got quite satissfied (even though I left my box idea) because this object is actually very mobile and playfull. It requires a very simple mouvement that can be translated into a poem as I wanted before. Each zip can refer to certain aspect of the poem (tone, typeface, color, size...) and be controlled at a wider range, depending on how opened the zippener is. Yet, im not sure it is still possible to integrate a printer inside but maybe I could integrate a small projector inside of it, so it displays the output on the closest surface like following:
 
