@@ -1,4 +1,5 @@
 # Prototyping
+
 13.11.23
 
 Today I suddenly got inspired by zippeners. I thought that zipping and unzipping was a very simple and playful interaction, reflecting the idea of openning a pencil case, which I previusly reffered as a box of ranfomness in terms of creation.
