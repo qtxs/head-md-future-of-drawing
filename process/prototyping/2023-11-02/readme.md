@@ -1,4 +1,5 @@
 # Prototyping. Work in progesss.
+02.11.2023
 
 The departure point for those prototypes was an idea of creating a portable ai assistant that would capture mouvements, gps paths and other stuff (to define still but probs weather too) and translate them into a visual poem. I aim to create an annoying assitant that would capture the lack of mouvement and on that point it would print out a ticket saying that it's time to get shit done. The paths made by the user before he/she sits for too long, are used as paths for the printed poems.
 
@@ -55,3 +56,19 @@ We don't really see on the picture but you all know those fine printing machines
     invisible for others
     easily portable
     possible to integrate sound and overall temperature
+
+
+# There is a summery of the current project state:
+
+    WHAT
+    Tool to fight procrastination
+    WHO
+    Young artists strggling with inspiration/motivation
+    WHERE
+    Portable in school bag, so anywhere 
+    HOW
+    Translating daily stuff into a haiku
+
+    The goal of this assistant is to serve as an annoying reminder that its time to get some work done. By tracking the gps and mouvements of the user, it detects when this one stays immobile for too long time and prints out a haiku saying that it is time to do something. The gps path made by user will serve as a path for the poem layout. The other factors such as weather, can influence the tone of the haiku. (others to chose) So all types of the interaction are indirect. So the printed haiku is some sort of a fine for not working enought.
+    The idea is to show beginner art students that common daily routine stuff can be transformed into an art piece and there is no special time to get inspiration or motivation.
+    The ai assistant will be portable so its usage be everywhere and at any moment of the day, when the user feels the need to get some inspiration/motivation.
