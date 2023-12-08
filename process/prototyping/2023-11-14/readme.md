@@ -4,7 +4,7 @@
 
 Today I suddenly got inspired by zippeners. I thought that zipping and unzipping was a very simple and playful interaction, reflecting the idea of openning a pencil case, which I previusly reffered as a box of ranfomness in terms of creation.
 
-I was intented to make this prototype first: 
+I was intented to make this prototype first:
 *I know you are against 3d at this phase, but for me it was easier to visualise than by sketching*
 
 ![Reference Image](/process/prototyping/2023-11-14/20231114_Prototype_02.jpg)
