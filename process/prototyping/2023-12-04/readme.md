@@ -24,5 +24,8 @@ Another problem was that GPS tracker actually needs long paths and wouldn't work
 ## Form
 
 So according to Laure, it's quite challangeing to make a box with a slider entirely in metal. First of all in terms of weight, it will be too heavy if I make it more than 1mm thick. The sliding part will make disturbing noises and wouldn't be so lisse. And bunch of other constraints.
-But there are couple of alternative ways of doing it. The best one is to make a box inside of the box. The inside box would contain all of electronics and have "slding supports" (look img below). And the outer box will be in 1mm metal sheet with a separate slider made out of metal as well.
+But there are couple of alternative ways of doing it. The best one is to make a box inside of the box. The inside box would contain all of electronics and have "slding supports". And the outer box will be in 1mm metal sheet with a separate slider made out of metal as well. 
+We also discussed about the way its should be folded/bent as there are multiple ways. I've done more paper prototypes to see which is the best way to make it.
+
+FORGOT SKETCHES SOMEWHERE. WILL ADD THEM ONCE I FIND
 
