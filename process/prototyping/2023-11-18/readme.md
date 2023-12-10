@@ -35,6 +35,3 @@ The mechanisms of John seems quite simple. It basically needs to be able to reco
 1. Printer
 2. GPS Tracker
 3. Somerthing to trigger the print
-
-
- As my object is a simple box at the end, and there is no a complex interaction, I thought that it is nice to make a more complex and interesting opener.

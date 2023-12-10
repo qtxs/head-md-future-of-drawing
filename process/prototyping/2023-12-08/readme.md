@@ -22,11 +22,11 @@ https://www.bastelgarage.ch/dfrobot-embedded-thermal-printer-ttl-serial?search=p
 2. GPS Tracker
 https://www.adafruit.com/product/5440
 
-3. Lithium battery in serie 
+3. Lithium battery in serie
 https://www.bastelgarage.ch/2x18650-lithium-batterie-shield-5v-3a-3v-1a?search=18650
 
 4. Light sensor
-Already in the kit 
+Already in the kit
 
 5. Accelometer
 https://www.digitec.ch/en/s1/product/purecrea-mpu-6050-3-axis-accelerometer-with-gyroscope-development-boards-kits-36359715?supplier=8244233&utm_source=google&utm_medium=cpc&campaignid=20457837530&adgroupid=&adid=&dgCidg=CjwKCAiAmsurBhBvEiwA6e-WPPlF19JC1pJcHe3yyotiDNUaUJymTqbOZ9FauMDcao3mosPiNMbErhoCsloQAvD_BwE&gad_source=1&gclid=CjwKCAiAmsurBhBvEiwA6e-WPPlF19JC1pJcHe3yyotiDNUaUJymTqbOZ9FauMDcao3mosPiNMbErhoCsloQAvD_BwE&gclsrc=aw.ds
