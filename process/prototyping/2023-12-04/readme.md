@@ -4,7 +4,7 @@
 
 Today we had meetings with Pierre and Laure and could finally discuss about the actual possibilites. 
 
-## Electronics
+# Electronics
 
 So apparantely, I overestimated the capacities of a thermal printer. As it works as a typerwring machine, it becomes impossible to display words and letters on the curved paths as I was expecting at the beginging:
 
@@ -21,7 +21,7 @@ So let's say problem solved. Also the printer can print images and grphics so it
 
 Another problem was that GPS tracker actually needs long paths and wouldn't work from simple mouevments for example across classroom. And it becomes impossible for the demo and the expo. So either I keep gps and fake it during demo by using already recorded paths or change it to accelometer and so change sligtly my concept as well. May be I can make two different variants, one for expo and one for demo? Gotta think hard and make a descision #libra. 
 
-## Form
+# Form
 
 So according to Laure, it's quite challangeing to make a box with a slider entirely in metal. First of all in terms of weight, it will be too heavy if I make it more than 1mm thick. The sliding part will make disturbing noises and wouldn't be so lisse. And bunch of other constraints.
 But there are couple of alternative ways of doing it. The best one is to make a box inside of the box. The inside box would contain all of electronics and have "slding supports". And the outer box will be in 1mm metal sheet with a separate slider made out of metal as well. 
