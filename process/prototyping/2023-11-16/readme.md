@@ -2,7 +2,7 @@
 
 16.11.23
 
-For the past week, before the Caran d'Ache [presentation](/presentations/20231116_CaranDache.pdf), I was mostly making research about box and pencil cases. As a decided that the pencil box was a very symbolical object, to represent my concept. 
+For the past week, before the Caran d'Ache [presentation](/presentations/20231116_CaranDache.pdf), I was mostly making research about box and pencil cases. As a decided that the pencil box was a very symbolical object, to represent my concept.
 
 The one and only:
 
@@ -20,10 +20,4 @@ Yet so far, I like the last one the most, I like the idea how simple it makes in
 [!Reference Image](/process/prototyping/2023-11-16/20231116_MyBox01.png)
 [!Reference Image](/process/prototyping/2023-11-16/20231116_MyBox02.png)
 
-
-
-
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
+So the idea is to make a slider opener (exisiting name?). For now there is this option. Still thinking about zippeners but not really sure how i could integrate them.
