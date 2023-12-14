@@ -10,6 +10,6 @@ Plan for the day
 
 - Read doc again
 - Make prototypes
-- User scenario 
+- User scenario
 - Better poetry definition
 - ... 
