@@ -32,7 +32,7 @@
     - Output 
         - Printer
 - Dimensions 
-    - GPS tracker : (not including coin cell or holder): 25.5mm x 35mm x 6.5mm
+    - GPS tracker : (not including coin cell or holder):  
     - Printer : with seat 82 x 58 x 44mm / without seat 77 x 53 x 42mm
     - Light sensor: 40 x 16 x 7 mm
 - Wiring 
