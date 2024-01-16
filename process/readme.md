@@ -19,19 +19,20 @@
     - Probably couple of screws
 
 ## Electronics
-- Arduino 
-    - Code 
-        - GPS tracker 
-        - Use gps data for text paths 
-        - Poem library 
-        - Light censor to trigger print 
+
+- Arduino
+    - Code
+        - GPS tracker
+        - Use gps data for text paths
+        - Poem library
+        - Light censor to trigger print
         - Thermal Printer control
     - Inputs
-        - GPS 
-        - Light sensor 
-    - Output 
+        - GPS
+        - Light sensor
+    - Output
         - Printer
-- Dimensions 
+- Dimensions
     - GPS tracker : (not including coin cell or holder):  
     - Printer : with seat 82 x 58 x 44mm / without seat 77 x 53 x 42mm
     - Light sensor: 40 x 16 x 7 mm
