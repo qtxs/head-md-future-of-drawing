@@ -1,5 +1,6 @@
-## 07.12.2023
 # Steps to build the thing 
+
+07.12.2023
 
 ## Form
 - 3D Modeling 
