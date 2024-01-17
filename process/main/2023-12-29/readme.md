@@ -17,3 +17,7 @@ There is the [docuement](/process/main/2023-12-29/CommandsSet.pdf) I was using, 
 2. Make list of poems to randomly compose them
 3. Use gps data
 4. Finish 3d model and print it at home
+
+Here are the correct schemes of my connections.
+[!Reference Image](/process/main/2023-12-29/20231229_Scheme01.png)
+[!Reference Image](/process/main/2023-12-29/20231229_Scheme02.png)
